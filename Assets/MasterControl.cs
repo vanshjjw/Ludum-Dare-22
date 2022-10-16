@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class MasterControl : MonoBehaviour {
     // class variables 
+    // git help file
     public static int[] Types;
     public static Vector3[] positions;
     public static MovingObjects[] references;
